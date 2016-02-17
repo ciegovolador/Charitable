@@ -67,6 +67,7 @@ class Test_Charitable_Currency_Helper extends WP_UnitTestCase {
 			'BRL' => '&#82;&#36;',
 			'BGN' => '&#1083;&#1074;.',
 			'AUD' => '&#36;',
+			'ARS' => '&#36;',
 			'USD' => '&#36;',
 			'EUR' => '&euro;',
 			'JPY' => '&yen;',
